@@ -1,6 +1,4 @@
-# Notificações por meio de Bot no Telegram sobre Rastreamento de Criptomoedas consultado a API de cotações (coingecko)
-
-Consulta a API coingecko e envia as atualizações de preço de determinada Criptomoeda através de Bot no Telegram
+# Notificações por meio de Bot no Telegram sobre Rastreamento de Criptomoedas consultando a API de cotações (coingecko)
 
 **Bibliotecas utilizadas:**
 - python-telegram-bot
